@@ -21,14 +21,6 @@
 
 ---
 
-### 📊 Mis estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samayoa&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samayoa&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
 ### 📫 Conectemos
 <p align="center">
   <a href="mailto:tu.correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
